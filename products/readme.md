@@ -21,6 +21,7 @@ Create CRUD Operations on Products
 
 
 ## Sample Data
+
 | product_id | name | price | description |
 | --- | --- | --- | --- |
 | 1 | TShirt | 999 | Printed TShirt
